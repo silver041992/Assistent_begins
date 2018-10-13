@@ -132,7 +132,6 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * возвращает прощание относительно времени суток
-     *
      * @param date
      * @return
      */
